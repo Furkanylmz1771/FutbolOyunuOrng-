@@ -1,0 +1,17 @@
+4 defans 4 ortasaha 4 forvet oyuncusu tasarlanmalý.
+
+Oyun için AdSoyad, FormaNo,Hýz, Dayanýklýlýk, Pas, Sut, Yetenek, Kararlýlýk,DogalForm ve sans özellikleri olan futbolcu sýnýfý tanýmlanmalý
+
+Defasn oyuncusu özelliklerinde PozisyonAlma, Kafa, Sýcrama
+OrtaSaha oyuncusunda UzunTop, ÝlkDokunuþ,Uretkenlýk, TopSurme, OzelYetenek
+Forvet oyuncusunda Býtýrýcýlýk, IlkDoknus, Kafa,OzelYetenek, SogukKaanlýlýk
+
+Tanýmlanan özellikler kendi sýnýflarýna ait kurucu fonksiyonlar tanýmlandýðýnda tanýmlý olduðu sýnýfa göre rastgele deðerler alacaktýr
+
+Oyuna rastgele seçilecek bir oyuncu ile baþlanmalý ve rastgele seçilen oyuncuya ait PasVer metodu çaðrýlmalý. Metod baþarýlý ise rastgele
+baþka bir oyuncu seçilerek ona pas verildiði varsayýlmalý ve oyun devam etmeli.
+
+3 adet rastgele seçilen oyuncuya pas verilesi þeklinde devam etmeli
+
+Tüm paslar baþarýlý olduðunda 3 pas sonunda 3. oyuncu GolVurusu yapmalýdýr. Baþarýlý ise ekrana "Gol oldu" yazmalý ve ayrýca oyuncu ismi ne forma 
+numarasý da ekrana yazmalý. Baþarýlý olmadý ise ekrana "Gol vuruþu baþarýsýz " yazmalý
